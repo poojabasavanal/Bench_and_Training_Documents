@@ -1,1 +1,0 @@
-Azure deployment link: https://hotelangular2.azurewebsites.net/
